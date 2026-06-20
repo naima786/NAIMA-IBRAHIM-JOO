@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naima786.github.io/NAIMA-IBRAHIM-JOO/sitemap.xml

@@ -1,0 +1,42 @@
+{
+  "defaultLanguage": "en",
+  "languages": [
+    { "code": "en", "short": "EN", "label": "English", "dir": "ltr" }
+  ],
+  "ui": {
+    "en": {
+      "languageLabel": "Language",
+      "themeDark": "Dark",
+      "themeLight": "Light",
+      "switchToDark": "Switch to dark mode",
+      "switchToLight": "Switch to light mode",
+      "publicationSearchLabel": "Search publications",
+      "publicationSearchPlaceholder": "Search publications, authors, DOI",
+      "year": "Year",
+      "allYears": "All years",
+      "sort": "Sort",
+      "sortNewest": "Newest first",
+      "sortOldest": "Oldest first",
+      "sortTitle": "Title A-Z",
+      "sortAward": "Award first",
+      "awardedOnly": "Awarded only",
+      "awarded": "Awarded",
+      "noPublicationMatches": "No publications match the selected filters.",
+      "readArticle": "Read Article",
+      "copyBibtex": "Copy BibTeX",
+      "copied": "Copied",
+      "copyFailed": "Copy failed",
+      "downloadBib": "Download .bib",
+      "openFullCertificate": "Open Full Certificate",
+      "verifyOnline": "Verify Online",
+      "closeCertificate": "Close certificate",
+      "copyrightPrefix": "Copyright",
+      "copyrightSuffix": "All Rights Reserved.",
+      "loadErrorTitle": "Content could not be loaded",
+      "loadErrorText": "Run the site through a local server or GitHub Pages so the JSON content file can be fetched.",
+      "noscriptTitle": "JavaScript required",
+      "noscriptText": "This site renders profile data from a JSON content file."
+    }
+  },
+  "content": {}
+}

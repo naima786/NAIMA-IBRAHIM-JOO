@@ -1,0 +1,367 @@
+{
+    "site":  {
+                 "name":  "Naima Ibrahim Joo",
+                 "pageTitle":  "Naima Ibrahim Joo | AI Researcher \u0026 ICT Instructor",
+                 "description":  "AI researcher and ICT educator specialising in LLM Privacy \u0026 Security, Federated Learning, Differential Privacy, and Physiological Safety Monitoring for micro-mobility systems."
+             },
+    "navigation":  [
+                       {
+                           "label":  "Bio",
+                           "href":  "#bio"
+                       },
+                       {
+                           "label":  "Education",
+                           "href":  "#education"
+                       },
+                       {
+                           "label":  "Research",
+                           "href":  "#research"
+                       },
+                       {
+                           "label":  "Publications",
+                           "href":  "#publications"
+                       },
+                       {
+                           "label":  "Projects",
+                           "href":  "#projects"
+                       },
+                       {
+                           "label":  "Contact",
+                           "href":  "#contact"
+                       }
+                   ],
+    "cvLink":  {
+                   "label":  "CV",
+                   "href":  "https://www.linkedin.com/in/naima-ibrahim-joo",
+                   "icon":  "fas fa-arrow-right"
+               },
+    "hero":  {
+                 "subtitle":  "AI Researcher | ICT Instructor | PhD Applicant",
+                 "title":  "Advancing Secure and Trustworthy AI Systems",
+                 "summary":  "Exploring the intersection of LLM Privacy \u0026 Security, Federated Learning, and Differential Privacy. Voluntary Research Assistant at the University of Aveiro, Portugal. Based in Islamabad, Pakistan.",
+                 "actions":  [
+                                 {
+                                     "label":  "Discover My Work",
+                                     "href":  "#bio",
+                                     "external":  false
+                                 },
+                                 {
+                                     "label":  "Publications",
+                                     "href":  "#publications",
+                                     "icon":  "fas fa-book-open",
+                                     "external":  false
+                                 }
+                             ],
+                 "images":  [
+                                {
+                                    "src":  "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800",
+                                    "alt":  "Large Language Model AI concept"
+                                },
+                                {
+                                    "src":  "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+                                    "alt":  "AI and machine learning research"
+                                },
+                                {
+                                    "src":  "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800",
+                                    "alt":  "Cybersecurity and data privacy"
+                                }
+                            ]
+             },
+    "bio":  {
+                "title":  "About Me",
+                "image":  {
+                              "src":  "assets/images/profile-photo.webp",
+                              "alt":  "Portrait of Naima Ibrahim Joo"
+                          },
+                "paragraphs":  [
+                                   "Naima Ibrahim Joo is an AI researcher and ICT educator with over 10 years of teaching experience at engineering institutions in Pakistan. She holds an MS in Computer Science with a specialisation in Artificial Intelligence from the National University of Technology (NUTECH), Islamabad, and is actively pursuing a PhD scholarship in Europe in the field of LLM Privacy and Security.",
+                                   "She currently serves as a Voluntary Research Assistant under Dr. Syed Tahir Ali Shah, PhD Researcher at the University of Aveiro, Portugal, contributing to research on Human Factor in IoT — Emotion-Aware and Physiology-Aware Mobility Systems. Her contributions include systematic gap analysis across 11 peer-reviewed papers, identification of a novel research gap in real-time multimodal physiological safety monitoring for e-scooters, and supporting journal-level manuscript preparation.",
+                                   "Her research interests focus on privacy-utility trade-offs in Differentially Private federated fine-tuning of Large Language Models, adversarial gradient manipulation, and secure aggregation in distributed AI systems. She is committed to translating advanced AI research into trustworthy, human-centred systems that benefit diverse communities."
+                               ]
+            },
+    "education":  {
+                      "title":  "Academic Journey",
+                      "items":  [
+                                    {
+                                        "date":  "2022 – 2024",
+                                        "title":  "MS in Computer Science (Artificial Intelligence)",
+                                        "organization":  "National University of Technology (NUTECH), Islamabad, Pakistan",
+                                        "description":  "Specialisation in Artificial Intelligence; deep learning, machine learning, neural network architectures, and data privacy fundamentals."
+                                    },
+                                    {
+                                        "date":  "2013 – 2015",
+                                        "title":  "Master of Information Technology (MIT)",
+                                        "organization":  "Karakorum International University, Skardu Campus, Gilgit-Baltistan, Pakistan",
+                                        "description":  "Networked systems, database management, and information technology."
+                                    },
+                                    {
+                                        "date":  "2015 – 2016",
+                                        "title":  "Bachelor of Education (B.Ed)",
+                                        "organization":  "Pakistan",
+                                        "description":  "Professional teaching qualification."
+                                    },
+                                    {
+                                        "date":  "2010 – 2012",
+                                        "title":  "Bachelor of Arts (BA)",
+                                        "organization":  "Karakorum International University, Skardu Campus, Gilgit-Baltistan, Pakistan",
+                                        "description":  ""
+                                    }
+                                ]
+                  },
+    "certificates":  {
+                         "title":  "Certifications",
+                         "subtitle":  "Professional and academic certifications.",
+                         "emptyMessage":  "Certificate files have not been added yet.",
+                         "items":  [
+                                       {
+                                           "title":  "AI For Everyone",
+                                           "issuer":  "DeepLearning.AI — Coursera",
+                                           "date":  "February 2025",
+                                           "description":  "Foundational understanding of AI concepts, machine learning, and their applications in industry and society.",
+                                           "buttonLabel":  "View Certificate"
+                                       },
+                                       {
+                                           "title":  "English Upper Intermediate B2.1",
+                                           "issuer":  "University of Napoli Federico II — Coursera",
+                                           "date":  "January 2025",
+                                           "description":  "Certified English language proficiency at B2.1 level.",
+                                           "buttonLabel":  "View Certificate"
+                                       },
+                                       {
+                                           "title":  "Educational Assessment Training Certificate",
+                                           "issuer":  "Federal Board of Intermediate and Secondary Education (FBISE), Pakistan",
+                                           "date":  "",
+                                           "description":  "Professional training in educational assessment and evaluation methods.",
+                                           "buttonLabel":  "View Certificate"
+                                       }
+                                   ]
+                     },
+    "research":  {
+                     "title":  "Research Interests",
+                     "items":  [
+                                   {
+                                       "icon":  "fas fa-lock",
+                                       "title":  "LLM Privacy \u0026 Security",
+                                       "description":  "Privacy-utility trade-offs in Differentially Private federated fine-tuning of Large Language Models under adversarial gradient manipulation."
+                                   },
+                                   {
+                                       "icon":  "fas fa-network-wired",
+                                       "title":  "Federated Learning",
+                                       "description":  "Secure aggregation, Byzantine-robust federated training, and gradient inversion attack defence in distributed LLM environments."
+                                   },
+                                   {
+                                       "icon":  "fas fa-shield-alt",
+                                       "title":  "Adversarial Machine Learning",
+                                       "description":  "Gradient inversion attacks, model poisoning, backdoor injection, and defence mechanisms in privacy-preserving AI systems."
+                                   },
+                                   {
+                                       "icon":  "fas fa-heartbeat",
+                                       "title":  "Physiological Safety Monitoring",
+                                       "description":  "Real-time multimodal physiological sensing for e-scooter safety using IoT, wearable sensors, TinyML, and edge AI deployment."
+                                   }
+                               ]
+                 },
+    "languages":  {
+                      "title":  "Languages",
+                      "columns":  [
+                                      "Language",
+                                      "Speaking",
+                                      "Reading",
+                                      "Writing",
+                                      "Listening",
+                                      "Review"
+                                  ],
+                      "rows":  [
+                                   [
+                                       {
+                                           "primary":  "Urdu",
+                                           "note":  "Mother Tongue"
+                                       },
+                                       "Native",
+                                       "Native",
+                                       "Native",
+                                       "Native",
+                                       "Native"
+                                   ],
+                                   [
+                                       {
+                                           "primary":  "English"
+                                       },
+                                       "Upper Int. (B2)",
+                                       "Proficiency (C2)",
+                                       "Proficiency (C2)",
+                                       "Advanced (C1)",
+                                       "Proficiency (C2)"
+                                   ]
+                               ]
+                  },
+    "publications":  {
+                         "title":  "Publications",
+                         "lastUpdated":  "Updated: June 2026",
+                         "categories":  [
+                                            {
+                                                "id":  "all",
+                                                "label":  "All"
+                                            },
+                                            {
+                                                "id":  "journal",
+                                                "label":  "Journals \u0026 Articles"
+                                            }
+                                        ],
+                         "items":  [
+                                       {
+                                           "category":  "journal",
+                                           "year":  2025,
+                                           "status":  "In Press (2025)",
+                                           "statusType":  "accepted",
+                                           "title":  "Mathematical Optimization of Analog Compute-in-Memory for Neural Networks",
+                                           "venue":  "Spectrum of Engineering Sciences (HEC Recognized, Y Category)",
+                                           "authors":  "-------, Naima Ibrahim Joo, et al."
+                                       },
+                                       {
+                                           "category":  "journal",
+                                           "year":  2025,
+                                           "status":  "In Press (2025)",
+                                           "statusType":  "accepted",
+                                           "title":  "Machine Learning Based Early Prediction of Diabetes Mellitus Using Clinical Data: A Comparative Study",
+                                           "venue":  "Pakistan Journal of Medical and Cardiological Review (HEC Recognized, Y Category)",
+                                           "authors":  "-------, Naima Ibrahim Joo, et al."
+                                       },
+                                       {
+                                           "category":  "journal",
+                                           "year":  2025,
+                                           "status":  "In Press (2025)",
+                                           "statusType":  "accepted",
+                                           "title":  "AI and Ethics: Balancing Innovation and Responsibility — Ethical Challenges in AI Development",
+                                           "venue":  "Spectrum of Engineering Sciences (HEC Recognized, Y Category)",
+                                           "authors":  "-------, Naima Ibrahim Joo, et al."
+                                       }
+                                   ]
+                     },
+    "software":  {
+                     "title":  "Projects \u0026 Research",
+                     "projectsTitle":  "Key Research Projects",
+                     "featured":  {
+                                      "badge":  "Active Research",
+                                      "title":  "E-Scooter Physiological Safety Monitoring",
+                                      "description":  "Systematic gap analysis and novelty framework for real-time multimodal physiological safety monitoring in micro-mobility environments, targeting vibration-aware edge AI deployment.",
+                                      "features":  [
+                                                       "11-Paper Systematic Gap Analysis",
+                                                       "Novelty Gap Identification",
+                                                       "Multimodal Signal Fusion (ECG + Gaze + IMU)",
+                                                       "TinyML Edge Deployment Framework"
+                                                   ],
+                                      "cta":  {
+                                                  "label":  "Get In Touch",
+                                                  "href":  "#contact",
+                                                  "icon":  "fas fa-envelope",
+                                                  "external":  false
+                                              },
+                                      "images":  [
+                                                     {
+                                                         "src":  "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800",
+                                                         "alt":  "AI security research"
+                                                     },
+                                                     {
+                                                         "src":  "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800",
+                                                         "alt":  "Data analysis and research"
+                                                     },
+                                                     {
+                                                         "src":  "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?w=800",
+                                                         "alt":  "Machine learning and deep learning"
+                                                     }
+                                                 ]
+                                  },
+                     "projects":  [
+                                      {
+                                          "title":  "Voluntary Research Assistant — University of Aveiro, Portugal",
+                                          "role":  "Research Assistant (Jan 2026 – Present)",
+                                          "meta":  "Systematic literature review, gap analysis, and manuscript preparation for Dr. Syed Tahir Ali Shah\u0027s research on Human Factor in IoT — Emotion-Aware and Physiology-Aware Mobility Systems."
+                                      },
+                                      {
+                                          "title":  "LLM Privacy \u0026 Security — PhD Research Proposal",
+                                          "role":  "Independent Research",
+                                          "meta":  "Developing a focused research proposal on privacy-utility trade-offs in Differentially Private federated fine-tuning of LLMs under adversarial gradient manipulation, targeting European PhD positions."
+                                      }
+                                  ]
+                 },
+    "contact":  {
+                    "title":  "Get In Touch",
+                    "subtitle":  "Open for research collaboration, academic discussion, and PhD opportunities.",
+                    "cards":  [
+                                  {
+                                      "icon":  "fas fa-envelope",
+                                      "title":  "Email",
+                                      "href":  "mailto:naimaibrahimjoo@gmail.com",
+                                      "lines":  [
+                                                    "naimaibrahimjoo@gmail.com"
+                                                ]
+                                  },
+                                  {
+                                      "icon":  "fab fa-whatsapp",
+                                      "title":  "WhatsApp",
+                                      "href":  "https://wa.me/923449495534",
+                                      "lines":  [
+                                                    "+92 344 9495534"
+                                                ]
+                                  },
+                                  {
+                                      "icon":  "fas fa-map-marker-alt",
+                                      "title":  "Location",
+                                      "lines":  [
+                                                    "Construction Technology Training Institute (CTTI)",
+                                                    "Islamabad, Pakistan"
+                                                ]
+                                  }
+                              ],
+                    "profileLinks":  [
+                                         {
+                                             "label":  "LinkedIn",
+                                             "href":  "https://www.linkedin.com/in/naima-ibrahim-joo",
+                                             "icon":  "fab fa-linkedin",
+                                             "color":  "#0a66c2"
+                                         },
+                                         {
+                                             "label":  "GitHub",
+                                             "href":  "https://github.com/naima786",
+                                             "icon":  "fab fa-github",
+                                             "color":  "#111827"
+                                         }
+                                     ],
+                    "socials":  [
+                                    {
+                                        "label":  "LinkedIn",
+                                        "href":  "https://www.linkedin.com/in/naima-ibrahim-joo",
+                                        "icon":  "fab fa-linkedin"
+                                    },
+                                    {
+                                        "label":  "GitHub",
+                                        "href":  "https://github.com/naima786",
+                                        "icon":  "fab fa-github"
+                                    }
+                                ]
+                },
+    "service":  {
+                    "title":  "Teaching \u0026 Research Service",
+                    "items":  [
+                                  {
+                                      "date":  "2015 - Present",
+                                      "title":  "ICT Instructor",
+                                      "organization":  "Engineering institutions in Pakistan",
+                                      "description":  "More than 10 years of ICT and computer science teaching experience with engineering and technical education learners."
+                                  },
+                                  {
+                                      "date":  "Jan 2026 - Present",
+                                      "title":  "Voluntary Research Assistant",
+                                      "organization":  "University of Aveiro research collaboration",
+                                      "description":  "Supports systematic literature review, gap analysis, and manuscript preparation on human factors in IoT and physiological safety monitoring."
+                                  },
+                                  {
+                                      "date":  "2025 - Present",
+                                      "title":  "PhD Research Preparation",
+                                      "organization":  "LLM Privacy and Security",
+                                      "description":  "Developing research direction on privacy-utility trade-offs in differentially private federated fine-tuning of large language models."
+                                  }
+                              ]
+                }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Naima Ibrahim Joo",
+  "short_name": "Naima Joo",
+  "description": "Academic portfolio for Naima Ibrahim Joo, AI researcher and ICT instructor.",
+  "start_url": "/NAIMA-IBRAHIM-JOO/",
+  "scope": "/NAIMA-IBRAHIM-JOO/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/NAIMA-IBRAHIM-JOO/assets/images/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/NAIMA-IBRAHIM-JOO/assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
