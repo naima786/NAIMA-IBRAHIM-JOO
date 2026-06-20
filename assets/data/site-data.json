@@ -298,14 +298,6 @@
                                                 ]
                                   },
                                   {
-                                      "icon":  "fab fa-whatsapp",
-                                      "title":  "WhatsApp",
-                                      "href":  "https://wa.me/923449495534",
-                                      "lines":  [
-                                                    "+92 344 9495534"
-                                                ]
-                                  },
-                                  {
                                       "icon":  "fas fa-map-marker-alt",
                                       "title":  "Location",
                                       "lines":  [
