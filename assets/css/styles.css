@@ -598,15 +598,14 @@ tr:hover td {
   align-items: center;
   display: grid;
   gap: 14px;
-  grid-template-columns: minmax(260px, 1fr) minmax(130px, auto) minmax(170px, auto) auto;
+  grid-template-columns: minmax(260px, 1fr) minmax(130px, auto) minmax(170px, auto);
   margin: -18px auto 26px;
   max-width: 1040px;
 }
 
 .publication-search,
 .publication-filter,
-.publication-sort,
-.publication-awarded {
+.publication-sort {
   align-items: center;
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -654,24 +653,6 @@ tr:hover td {
   padding: 0 34px 0 2px;
 }
 
-.publication-awarded {
-  cursor: pointer;
-  gap: 9px;
-  padding: 0 14px;
-  white-space: nowrap;
-}
-
-.publication-awarded input {
-  accent-color: var(--accent);
-  height: 16px;
-  width: 16px;
-}
-
-.publication-awarded span {
-  color: var(--text-main);
-  font-size: 0.9rem;
-  font-weight: 700;
-}
 
 .pub-tabs {
   display: flex;
@@ -1511,10 +1492,6 @@ footer .socials a:hover {
     grid-column: 1 / -1;
   }
 
-  .publication-awarded {
-    justify-content: center;
-  }
-
   .pub-actions {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -1558,10 +1535,6 @@ footer .socials a:hover {
   .publication-search,
   .pub-action.pub-link {
     grid-column: auto;
-  }
-
-  .publication-awarded {
-    justify-content: flex-start;
   }
 
   .pub-actions {

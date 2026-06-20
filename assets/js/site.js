@@ -13,7 +13,6 @@ const state = {
   publicationQuery: "",
   publicationSort: "newest",
   publicationYear: "all",
-  publicationAwardedOnly: false,
   theme: document.documentElement.dataset.theme || "light",
   language: "en"
 };
@@ -545,11 +544,9 @@ function bindPublicationControls() {
   const search = $("#publication-search");
   const sort = $("#publication-sort");
   const year = $("#publication-year");
-  const awarded = $("#publication-awarded");
   const searchLabel = $(".publication-search .sr-only");
   const yearLabel = $(".publication-filter span");
   const sortLabel = $(".publication-sort span");
-  const awardedLabel = $(".publication-awarded span");
   const sortLabels = {
     newest: uiText("sortNewest", "Newest first"),
     oldest: uiText("sortOldest", "Oldest first"),
@@ -592,15 +589,6 @@ function bindPublicationControls() {
       renderPublications();
     };
   }
-
-  if (awarded) {
-    awarded.checked = state.publicationAwardedOnly;
-    if (awardedLabel) awardedLabel.textContent = uiText("awardedOnly", "Awarded only");
-    awarded.onchange = () => {
-      state.publicationAwardedOnly = awarded.checked;
-      renderPublications();
-    };
-  }
 }
 
 function renderPublicationTabs() {
@@ -630,7 +618,6 @@ function publicationMatches(item) {
   if (!categoryMatch) return false;
 
   if (state.publicationYear !== "all" && String(item.year) !== state.publicationYear) return false;
-  if (state.publicationAwardedOnly && !isAwardedPublication(item)) return false;
 
   if (!state.publicationQuery) return true;
 
