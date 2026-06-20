@@ -32,8 +32,8 @@
                    ],
     "cvLink":  {
                    "label":  "CV",
-                   "href":  "https://www.linkedin.com/in/naima-ibrahim-joo",
-                   "icon":  "fas fa-arrow-right"
+                   "href":  "assets/cv/naima-ibrahim-joo-cv.pdf",
+                   "icon":  "fas fa-file-pdf"
                },
     "hero":  {
                  "subtitle":  "AI Researcher | ICT Instructor | PhD Applicant",
@@ -75,7 +75,7 @@
                           },
                 "paragraphs":  [
                                    "Naima Ibrahim Joo is an AI researcher and ICT educator with over 10 years of teaching experience at engineering institutions in Pakistan. She holds an MS in Computer Science with a specialisation in Artificial Intelligence from the National University of Technology (NUTECH), Islamabad, and is actively pursuing a PhD scholarship in Europe in the field of LLM Privacy and Security.",
-                                   "She currently serves as a Voluntary Research Assistant under Dr. Syed Tahir Ali Shah, PhD Researcher at the University of Aveiro, Portugal, contributing to research on Human Factor in IoT — Emotion-Aware and Physiology-Aware Mobility Systems. Her contributions include systematic gap analysis across 11 peer-reviewed papers, identification of a novel research gap in real-time multimodal physiological safety monitoring for e-scooters, and supporting journal-level manuscript preparation.",
+                                   "She currently serves as a Voluntary Research Assistant under Dr. Syed Tahir Ali Shah, PhD Researcher at the University of Aveiro, Portugal, contributing to research on Human Factor in IoT â€” Emotion-Aware and Physiology-Aware Mobility Systems. Her contributions include systematic gap analysis across 11 peer-reviewed papers, identification of a novel research gap in real-time multimodal physiological safety monitoring for e-scooters, and supporting journal-level manuscript preparation.",
                                    "Her research interests focus on privacy-utility trade-offs in Differentially Private federated fine-tuning of Large Language Models, adversarial gradient manipulation, and secure aggregation in distributed AI systems. She is committed to translating advanced AI research into trustworthy, human-centred systems that benefit diverse communities."
                                ]
             },
@@ -83,25 +83,25 @@
                       "title":  "Academic Journey",
                       "items":  [
                                     {
-                                        "date":  "2022 – 2024",
+                                        "date":  "2022 â€“ 2024",
                                         "title":  "MS in Computer Science (Artificial Intelligence)",
                                         "organization":  "National University of Technology (NUTECH), Islamabad, Pakistan",
                                         "description":  "Specialisation in Artificial Intelligence; deep learning, machine learning, neural network architectures, and data privacy fundamentals."
                                     },
                                     {
-                                        "date":  "2013 – 2015",
+                                        "date":  "2013 â€“ 2015",
                                         "title":  "Master of Information Technology (MIT)",
                                         "organization":  "Karakorum International University, Skardu Campus, Gilgit-Baltistan, Pakistan",
                                         "description":  "Networked systems, database management, and information technology."
                                     },
                                     {
-                                        "date":  "2015 – 2016",
+                                        "date":  "2015 â€“ 2016",
                                         "title":  "Bachelor of Education (B.Ed)",
                                         "organization":  "Pakistan",
                                         "description":  "Professional teaching qualification."
                                     },
                                     {
-                                        "date":  "2010 – 2012",
+                                        "date":  "2010 â€“ 2012",
                                         "title":  "Bachelor of Arts (BA)",
                                         "organization":  "Karakorum International University, Skardu Campus, Gilgit-Baltistan, Pakistan",
                                         "description":  ""
@@ -115,14 +115,14 @@
                          "items":  [
                                        {
                                            "title":  "AI For Everyone",
-                                           "issuer":  "DeepLearning.AI — Coursera",
+                                           "issuer":  "DeepLearning.AI â€” Coursera",
                                            "date":  "February 2025",
                                            "description":  "Foundational understanding of AI concepts, machine learning, and their applications in industry and society.",
                                            "buttonLabel":  "View Certificate"
                                        },
                                        {
                                            "title":  "English Upper Intermediate B2.1",
-                                           "issuer":  "University of Napoli Federico II — Coursera",
+                                           "issuer":  "University of Napoli Federico II â€” Coursera",
                                            "date":  "January 2025",
                                            "description":  "Certified English language proficiency at B2.1 level.",
                                            "buttonLabel":  "View Certificate"
@@ -232,7 +232,7 @@
                                            "year":  2025,
                                            "status":  "In Press (2025)",
                                            "statusType":  "accepted",
-                                           "title":  "AI and Ethics: Balancing Innovation and Responsibility — Ethical Challenges in AI Development",
+                                           "title":  "AI and Ethics: Balancing Innovation and Responsibility â€” Ethical Challenges in AI Development",
                                            "venue":  "Spectrum of Engineering Sciences (HEC Recognized, Y Category)",
                                            "authors":  "-------, Naima Ibrahim Joo, et al."
                                        }
@@ -274,12 +274,12 @@
                                   },
                      "projects":  [
                                       {
-                                          "title":  "Voluntary Research Assistant — University of Aveiro, Portugal",
-                                          "role":  "Research Assistant (Jan 2026 – Present)",
-                                          "meta":  "Systematic literature review, gap analysis, and manuscript preparation for Dr. Syed Tahir Ali Shah\u0027s research on Human Factor in IoT — Emotion-Aware and Physiology-Aware Mobility Systems."
+                                          "title":  "Voluntary Research Assistant â€” University of Aveiro, Portugal",
+                                          "role":  "Research Assistant (Jan 2026 â€“ Present)",
+                                          "meta":  "Systematic literature review, gap analysis, and manuscript preparation for Dr. Syed Tahir Ali Shah\u0027s research on Human Factor in IoT â€” Emotion-Aware and Physiology-Aware Mobility Systems."
                                       },
                                       {
-                                          "title":  "LLM Privacy \u0026 Security — PhD Research Proposal",
+                                          "title":  "LLM Privacy \u0026 Security â€” PhD Research Proposal",
                                           "role":  "Independent Research",
                                           "meta":  "Developing a focused research proposal on privacy-utility trade-offs in Differentially Private federated fine-tuning of LLMs under adversarial gradient manipulation, targeting European PhD positions."
                                       }
